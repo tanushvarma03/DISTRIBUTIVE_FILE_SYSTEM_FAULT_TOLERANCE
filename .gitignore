@@ -1,0 +1,25 @@
+# Compiled binaries
+dfs
+*.out
+*.exe
+*.o
+
+# Node directories
+node_1/
+node_2/
+node_3/
+node_4/
+
+# Metadata
+metadata.txt
+
+# Downloaded files
+downloaded_*
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
