@@ -110,7 +110,7 @@ DFS> exit
 
 ## Author
 
-Abhinav — CSE316 Project
+Tanush — CSE316 Project
 
 ## License
 
